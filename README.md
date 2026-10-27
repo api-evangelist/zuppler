@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zuppler is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zuppler.com/
+Zuppler provides online ordering and restaurant revenue solutions, offering a platform for restaurants to manage orders, catering, multi‑brand operations, and marketplace integrations. Their services include white‑label solutions, mobile apps, loyalty programs, marketing automation, gift cards, AI‑driven upselling, and analytics, helping restaurants increase sales and streamline operations.
+
+**Areas:** Company · OnlineOrdering · RestaurantTech · SaaS · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.zuppler.com/)
+- [Documentation](https://www.zuppler.com/online-food-ordering-system)
+- [Pricing](https://www.zuppler.com/connect)
+- [Support](https://help.zuppler.com/portal/en/home)
+- [Blog](https://www.zuppler.com/blog)
+- [Security](https://www.zuppler.com/blog/tag/Security)
+- [Terms of service](https://www.zuppler.com/terms-conditions)
+- [Privacy policy](https://www.zuppler.com/privacy-policy)
+- [GitHub](https://github.com/zuppler)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zuppler/](https://apis.io/providers/zuppler/).
